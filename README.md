@@ -1,2 +1,2 @@
 # recipes
-A simple HTML for TOP assignment
+A simple HTML page for TOP assignment
